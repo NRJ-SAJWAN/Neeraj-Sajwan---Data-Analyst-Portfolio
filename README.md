@@ -14,7 +14,7 @@ I have a passion for leveraging data to drive business success and uncover meani
 I am continuously learning and exploring new technologies in data analytics and finance. Whether collaborating with teams or working independently, I thrive on solving complex problems through data-driven strategies. I am excited about opportunities where I can apply my analytical expertise and technical skills to make a meaningful impact.
 
 Let’s connect and discuss how I can contribute to your organization’s financial and data analysis goals!
-My CV in pdfhttps://github.com/NRJ-SAJWAN/Neeraj-Sajwan---Data-Analyst-Portfolio/blob/9b71f31b782192941850f01a5ea8ecd868c832c3/Neeraj%20Sajwan.pdf
+My CV in pdf
 https://github.com/NRJ-SAJWAN/Neeraj-Sajwan---Data-Analyst-Portfolio/blob/9b71f31b782192941850f01a5ea8ecd868c832c3/Neeraj%20Sajwan.pdf.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
